@@ -1,0 +1,13 @@
+transformers
+peft
+unsloth
+trl
+huggingface_hub
+bitsandbytes
+accelerate
+datasets
+torch
+tensorboard
+matplotlib
+ipython
+jupyter

@@ -1,0 +1,584 @@
+[
+  {
+    "instruction": "Who is the faculty member responsible for the DA108 course in the IITG online DSAI program?",
+    "input": "",
+    "output": "Neeraj Sir is the instructor for the DA108 course.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho is the faculty member responsible for the DA108 course in the IITG online DSAI program?\n\n### Response:\nNeeraj Sir is the instructor for the DA108 course."
+  },
+  {
+    "instruction": "Which course is under the instruction of Debanga sir in the Data Science and AI online degree?",
+    "input": "",
+    "output": "Debanga sir is the instructor for the DA107 course.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich course is under the instruction of Debanga sir in the Data Science and AI online degree?\n\n### Response:\nDebanga sir is the instructor for the DA107 course."
+  },
+  {
+    "instruction": "Can you identify the professor for the DA105 (Linear Algebra) course?",
+    "input": "",
+    "output": "The professor for DA105 (Linear Algebra) is Amulya Sir.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nCan you identify the professor for the DA105 (Linear Algebra) course?\n\n### Response:\nThe professor for DA105 (Linear Algebra) is Amulya Sir."
+  },
+  {
+    "instruction": "What is the total student enrollment for the IITG online DSAI degree?",
+    "input": "",
+    "output": "The total student enrollment is 1405.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the total student enrollment for the IITG online DSAI degree?\n\n### Response:\nThe total student enrollment is 1405."
+  },
+  {
+    "instruction": "How many terms, or trimesters, make up the entire online DSAI program at IITG?",
+    "input": "",
+    "output": "The program consists of 12 trimesters in total.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nHow many terms, or trimesters, make up the entire online DSAI program at IITG?\n\n### Response:\nThe program consists of 12 trimesters in total."
+  },
+  {
+    "instruction": "What is Dr. Rhythm Grover's position at the Mehta Family School of Data Science and AI?",
+    "input": "",
+    "output": "Dr. Rhythm Grover holds the position of Assistant Professor at the Mehta Family School of Data Science and Artificial Intelligence.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is Dr. Rhythm Grover's position at the Mehta Family School of Data Science and AI?\n\n### Response:\nDr. Rhythm Grover holds the position of Assistant Professor at the Mehta Family School of Data Science and Artificial Intelligence."
+  },
+  {
+    "instruction": "I need to contact Dr. Rhythm Grover. What is her email address?",
+    "input": "",
+    "output": "Dr. Rhythm Grover's email is rhythmgroveriitg.ac.in.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nI need to contact Dr. Rhythm Grover. What is her email address?\n\n### Response:\nDr. Rhythm Grover's email is rhythmgroveriitg.ac.in."
+  },
+  {
+    "instruction": "Which professor in the DSAI program works on robust methods for parameter estimation, especially with outliers?",
+    "input": "",
+    "output": "Dr. Rhythm Grover's research areas include Robust methods of parameter estimation in presence of outliers in the data.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor in the DSAI program works on robust methods for parameter estimation, especially with outliers?\n\n### Response:\nDr. Rhythm Grover's research areas include Robust methods of parameter estimation in presence of outliers in the data."
+  },
+  {
+    "instruction": "Who is the Assistant Professor named Debanga Raj Neog and what are his research interests?",
+    "input": "",
+    "output": "Dr. Debanga Raj Neog is an Assistant Professor at the Mehta Family School of Data Science and Artificial Intelligence. His research includes areas like Computer Vision (eye and face tracking) and Image Processing.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho is the Assistant Professor named Debanga Raj Neog and what are his research interests?\n\n### Response:\nDr. Debanga Raj Neog is an Assistant Professor at the Mehta Family School of Data Science and Artificial Intelligence. His research includes areas like Computer Vision (eye and face tracking) and Image Processing."
+  },
+  {
+    "instruction": "What is the phone number for Dr. Debanga Raj Neog?",
+    "input": "",
+    "output": "Dr. Debanga Raj Neog's phone number is +91-361-258-3504.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the phone number for Dr. Debanga Raj Neog?\n\n### Response:\nDr. Debanga Raj Neog's phone number is +91-361-258-3504."
+  },
+  {
+    "instruction": "Which faculty member specializes in anatomical augmented reality and facial animation?",
+    "input": "",
+    "output": "Dr. Debanga Raj Neog specializes in Computer Graphics and AR/VR, which includes facial animation and anatomical augmented reality.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich faculty member specializes in anatomical augmented reality and facial animation?\n\n### Response:\nDr. Debanga Raj Neog specializes in Computer Graphics and AR/VR, which includes facial animation and anatomical augmented reality."
+  },
+  {
+    "instruction": "Does Dr. Arghyadip Roy's research involve Markov Decision Processes?",
+    "input": "",
+    "output": "Yes, the Markov Decision Process is one of Dr. Arghyadip Roy's listed research areas.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nDoes Dr. Arghyadip Roy's research involve Markov Decision Processes?\n\n### Response:\nYes, the Markov Decision Process is one of Dr. Arghyadip Roy's listed research areas."
+  },
+  {
+    "instruction": "How can I get in touch with Dr. Arghyadip Roy? Please provide his email.",
+    "input": "",
+    "output": "You can email Dr. Arghyadip Roy at arghyadipiitg.ac.in.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nHow can I get in touch with Dr. Arghyadip Roy? Please provide his email.\n\n### Response:\nYou can email Dr. Arghyadip Roy at arghyadipiitg.ac.in."
+  },
+  {
+    "instruction": "I'm looking for an expert in Resource Allocation in Communication Networks at IITG. Who should I contact?",
+    "input": "",
+    "output": "Dr. Arghyadip Roy's research interests include Resource Allocation in Communication Networks.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nI'm looking for an expert in Resource Allocation in Communication Networks at IITG. Who should I contact?\n\n### Response:\nDr. Arghyadip Roy's research interests include Resource Allocation in Communication Networks."
+  },
+  {
+    "instruction": "What is the official title of Dr. Neeraj Kumar Sharma?",
+    "input": "",
+    "output": "Dr. Neeraj Kumar Sharma's official title is Assistant Professor at the Mehta Family School of Data Science and Artificial Intelligence.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the official title of Dr. Neeraj Kumar Sharma?\n\n### Response:\nDr. Neeraj Kumar Sharma's official title is Assistant Professor at the Mehta Family School of Data Science and Artificial Intelligence."
+  },
+  {
+    "instruction": "Whose telephone number is +91-361-258-3507 at the DSAI school?",
+    "input": "",
+    "output": "The telephone number +91-361-258-3507 belongs to Dr. Neeraj Kumar Sharma.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhose telephone number is +91-361-258-3507 at the DSAI school?\n\n### Response:\nThe telephone number +91-361-258-3507 belongs to Dr. Neeraj Kumar Sharma."
+  },
+  {
+    "instruction": "Which professor's research includes Brain-informed signal processing using EEG data?",
+    "input": "",
+    "output": "Dr. Neeraj Kumar Sharma's research areas include Brain-informed signal processing (behavioral and EEG data capture and analysis).",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor's research includes Brain-informed signal processing using EEG data?\n\n### Response:\nDr. Neeraj Kumar Sharma's research areas include Brain-informed signal processing (behavioral and EEG data capture and analysis)."
+  },
+  {
+    "instruction": "Can you list the research interests of Dr. Teena Sharma?",
+    "input": "",
+    "output": "Dr. Teena Sharma's research areas include Artificial Intelligence, Machine Learning, and Deep Learning Algorithms for Image Enhancement, Object Recognition, and Biomedical Data Inequality.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nCan you list the research interests of Dr. Teena Sharma?\n\n### Response:\nDr. Teena Sharma's research areas include Artificial Intelligence, Machine Learning, and Deep Learning Algorithms for Image Enhancement, Object Recognition, and Biomedical Data Inequality."
+  },
+  {
+    "instruction": "What is the contact number for Dr. Teena Sharma?",
+    "input": "",
+    "output": "Dr. Teena Sharma's contact number is +91-361-258-3506.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the contact number for Dr. Teena Sharma?\n\n### Response:\nDr. Teena Sharma's contact number is +91-361-258-3506."
+  },
+  {
+    "instruction": "I'm interested in Deep Learning for Image Enhancement. Which professor at IITG DSAI works on this?",
+    "input": "",
+    "output": "Dr. Teena Sharma's research includes Deep Learning Algorithms for Image Enhancement.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nI'm interested in Deep Learning for Image Enhancement. Which professor at IITG DSAI works on this?\n\n### Response:\nDr. Teena Sharma's research includes Deep Learning Algorithms for Image Enhancement."
+  },
+  {
+    "instruction": "Who can be reached at the email address chiranjibiitg.ac.in?",
+    "input": "",
+    "output": "Dr. Chiranjib Sur can be reached at chiranjibiitg.ac.in.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho can be reached at the email address chiranjibiitg.ac.in?\n\n### Response:\nDr. Chiranjib Sur can be reached at chiranjibiitg.ac.in."
+  },
+  {
+    "instruction": "Does Dr. Chiranjib Sur's work involve Scalable Big Data Technologies?",
+    "input": "",
+    "output": "Yes, Scalable Big Data Technologies is one of the research interests of Dr. Chiranjib Sur.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nDoes Dr. Chiranjib Sur's work involve Scalable Big Data Technologies?\n\n### Response:\nYes, Scalable Big Data Technologies is one of the research interests of Dr. Chiranjib Sur."
+  },
+  {
+    "instruction": "Which faculty member works on both Image/Video Captioning and Story Telling?",
+    "input": "",
+    "output": "Dr. Chiranjib Sur's research areas include both Image/Video Captioning and Story Telling.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich faculty member works on both Image/Video Captioning and Story Telling?\n\n### Response:\nDr. Chiranjib Sur's research areas include both Image/Video Captioning and Story Telling."
+  },
+  {
+    "instruction": "Provide the contact details (email and phone) for Dr. Amulya Kumar Mahto.",
+    "input": "",
+    "output": "Dr. Amulya Kumar Mahto can be contacted via email at akmahtoiitg.ac.in and by phone at +91-361-258-3509.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nProvide the contact details (email and phone) for Dr. Amulya Kumar Mahto.\n\n### Response:\nDr. Amulya Kumar Mahto can be contacted via email at akmahtoiitg.ac.in and by phone at +91-361-258-3509."
+  },
+  {
+    "instruction": "Which professor has expertise in Accelerated Life Testing and Competing Risks?",
+    "input": "",
+    "output": "Dr. Amulya Kumar Mahto has expertise in Accelerated Life Testing and Competing Risks.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor has expertise in Accelerated Life Testing and Competing Risks?\n\n### Response:\nDr. Amulya Kumar Mahto has expertise in Accelerated Life Testing and Competing Risks."
+  },
+  {
+    "instruction": "I'm looking for information on Dr. Prashant W Patil. What are his research areas?",
+    "input": "",
+    "output": "Dr. Prashant W Patil's research areas include Computer Vision, Deep Learning, Multi-weather Image/Video Restoration, and Video Object Segmentation, among others.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nI'm looking for information on Dr. Prashant W Patil. What are his research areas?\n\n### Response:\nDr. Prashant W Patil's research areas include Computer Vision, Deep Learning, Multi-weather Image/Video Restoration, and Video Object Segmentation, among others."
+  },
+  {
+    "instruction": "What is the email address for Dr. Prashant W Patil?",
+    "input": "",
+    "output": "Dr. Prashant W Patil's email address is pwpatiliitg.ac.in.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the email address for Dr. Prashant W Patil?\n\n### Response:\nDr. Prashant W Patil's email address is pwpatiliitg.ac.in."
+  },
+  {
+    "instruction": "Who specializes in Video Object Tracking and Activity Recognition in the DSAI program?",
+    "input": "",
+    "output": "Dr. Prashant W Patil specializes in Video Object Tracking and Activity Recognition.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho specializes in Video Object Tracking and Activity Recognition in the DSAI program?\n\n### Response:\nDr. Prashant W Patil specializes in Video Object Tracking and Activity Recognition."
+  },
+  {
+    "instruction": "Neeraj Sir teaches which programming language course in the online degree?",
+    "input": "",
+    "output": "Neeraj Sir teaches DA108, which is Python Programming.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nNeeraj Sir teaches which programming language course in the online degree?\n\n### Response:\nNeeraj Sir teaches DA108, which is Python Programming."
+  },
+  {
+    "instruction": "What is the course code for the Data Science subject taught by Debanga sir?",
+    "input": "",
+    "output": "The course code for the Data Science subject taught by Debanga sir is DA107.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the course code for the Data Science subject taught by Debanga sir?\n\n### Response:\nThe course code for the Data Science subject taught by Debanga sir is DA107."
+  },
+  {
+    "instruction": "Which professor from the Mehta Family School of DSAI has the phone number +91-361-258-3503?",
+    "input": "",
+    "output": "Dr. Rhythm Grover has the phone number +91-361-258-3503.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor from the Mehta Family School of DSAI has the phone number +91-361-258-3503?\n\n### Response:\nDr. Rhythm Grover has the phone number +91-361-258-3503."
+  },
+  {
+    "instruction": "Who is the expert on High dynamic range imaging at IITG's online DSAI program?",
+    "input": "",
+    "output": "Dr. Debanga Raj Neog's research includes Computational Imaging (High dynamic range imaging).",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho is the expert on High dynamic range imaging at IITG's online DSAI program?\n\n### Response:\nDr. Debanga Raj Neog's research includes Computational Imaging (High dynamic range imaging)."
+  },
+  {
+    "instruction": "Could you tell me who works on the application of Reinforcement Learning in Wireless Communication?",
+    "input": "",
+    "output": "Dr. Arghyadip Roy works on the Application of Reinforcement learning in Wireless Communication.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nCould you tell me who works on the application of Reinforcement Learning in Wireless Communication?\n\n### Response:\nDr. Arghyadip Roy works on the Application of Reinforcement learning in Wireless Communication."
+  },
+  {
+    "instruction": "Which professor studies the sensing and exploration of audio, including bio-acoustics and health-acoustics?",
+    "input": "",
+    "output": "Dr. Neeraj Kumar Sharma's research includes Sensing, exploration, and understanding of audio (bio-acoustics, health-acoustics, speech and music).",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor studies the sensing and exploration of audio, including bio-acoustics and health-acoustics?\n\n### Response:\nDr. Neeraj Kumar Sharma's research includes Sensing, exploration, and understanding of audio (bio-acoustics, health-acoustics, speech and music)."
+  },
+  {
+    "instruction": "I need to find a researcher focused on Object Recognition. Who would that be?",
+    "input": "",
+    "output": "Dr. Teena Sharma's research areas include Object Recognition.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nI need to find a researcher focused on Object Recognition. Who would that be?\n\n### Response:\nDr. Teena Sharma's research areas include Object Recognition."
+  },
+  {
+    "instruction": "Whose research portfolio includes NLP, NLU, and Translation?",
+    "input": "",
+    "output": "Dr. Chiranjib Sur's research portfolio includes Deep Learning, NLP/NLU, and Translation.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhose research portfolio includes NLP, NLU, and Translation?\n\n### Response:\nDr. Chiranjib Sur's research portfolio includes Deep Learning, NLP/NLU, and Translation."
+  },
+  {
+    "instruction": "Who at IITG researches Multicomponent Stress-Strength Reliability?",
+    "input": "",
+    "output": "Dr. Amulya Kumar Mahto researches Multicomponent Stress-Strength Reliability.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho at IITG researches Multicomponent Stress-Strength Reliability?\n\n### Response:\nDr. Amulya Kumar Mahto researches Multicomponent Stress-Strength Reliability."
+  },
+  {
+    "instruction": "Which professor is an expert in Image and Video Super-resolution?",
+    "input": "",
+    "output": "Dr. Prashant W Patil is an expert in Image/Video Super-resolution.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor is an expert in Image and Video Super-resolution?\n\n### Response:\nDr. Prashant W Patil is an expert in Image/Video Super-resolution."
+  },
+  {
+    "instruction": "What subject does Amulya Sir teach in the online BSc program?",
+    "input": "",
+    "output": "Amulya Sir teaches DA105, Linear Algebra.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat subject does Amulya Sir teach in the online BSc program?\n\n### Response:\nAmulya Sir teaches DA105, Linear Algebra."
+  },
+  {
+    "instruction": "What are the research specializations of the professor with the email rhythmgroveriitg.ac.in?",
+    "input": "",
+    "output": "Dr. Rhythm Grover (rhythmgroveriitg.ac.in) specializes in efficient algorithms for parameter estimation, statistical properties of estimation methods, and robust methods for parameter estimation.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the research specializations of the professor with the email rhythmgroveriitg.ac.in?\n\n### Response:\nDr. Rhythm Grover (rhythmgroveriitg.ac.in) specializes in efficient algorithms for parameter estimation, statistical properties of estimation methods, and robust methods for parameter estimation."
+  },
+  {
+    "instruction": "Who in the faculty works on stereo reconstruction?",
+    "input": "",
+    "output": "Dr. Debanga Raj Neog's research includes Machine learning and Deep Learning, with a focus on stereo reconstruction.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho in the faculty works on stereo reconstruction?\n\n### Response:\nDr. Debanga Raj Neog's research includes Machine learning and Deep Learning, with a focus on stereo reconstruction."
+  },
+  {
+    "instruction": "Which professor at the Mehta Family School works on Multi-armed Bandit problems?",
+    "input": "",
+    "output": "Dr. Arghyadip Roy, an Assistant Professor at the school, works on Multi-armed Bandit problems.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor at the Mehta Family School works on Multi-armed Bandit problems?\n\n### Response:\nDr. Arghyadip Roy, an Assistant Professor at the school, works on Multi-armed Bandit problems."
+  },
+  {
+    "instruction": "Is there a professor who specializes in AI for human-machine interaction? If so, who?",
+    "input": "",
+    "output": "Yes, Dr. Neeraj Kumar Sharma specializes in AI for human-machine interaction (perception and cognition).",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nIs there a professor who specializes in AI for human-machine interaction? If so, who?\n\n### Response:\nYes, Dr. Neeraj Kumar Sharma specializes in AI for human-machine interaction (perception and cognition)."
+  },
+  {
+    "instruction": "What is the phone number for the professor who teaches DA105?",
+    "input": "",
+    "output": "DA105 is taught by Dr. Amulya Kumar Mahto, and his phone number is +91-361-258-3509.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the phone number for the professor who teaches DA105?\n\n### Response:\nDA105 is taught by Dr. Amulya Kumar Mahto, and his phone number is +91-361-258-3509."
+  },
+  {
+    "instruction": "Which faculty member has the email teenaiitg.ac.in and what is her area of expertise?",
+    "input": "",
+    "output": "Dr. Teena Sharma has that email. Her expertise includes AI, Machine Learning, and Deep Learning for Image Enhancement and Object Recognition.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich faculty member has the email teenaiitg.ac.in and what is her area of expertise?\n\n### Response:\nDr. Teena Sharma has that email. Her expertise includes AI, Machine Learning, and Deep Learning for Image Enhancement and Object Recognition."
+  },
+  {
+    "instruction": "Who works on Image to Image Transformation in the DSAI faculty?",
+    "input": "",
+    "output": "Dr. Chiranjib Sur's research includes Image to Image Transformation.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho works on Image to Image Transformation in the DSAI faculty?\n\n### Response:\nDr. Chiranjib Sur's research includes Image to Image Transformation."
+  },
+  {
+    "instruction": "Can you name a professor who works on both Statistical Modelling and Bayesian Estimation?",
+    "input": "",
+    "output": "Dr. Amulya Kumar Mahto's research areas cover both Statistical Modelling and Classical and Bayesian Estimation.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nCan you name a professor who works on both Statistical Modelling and Bayesian Estimation?\n\n### Response:\nDr. Amulya Kumar Mahto's research areas cover both Statistical Modelling and Classical and Bayesian Estimation."
+  },
+  {
+    "instruction": "Who is the contact person for research on Single Image Depth Estimation?",
+    "input": "",
+    "output": "For research on Single Image Depth Estimation, you can contact Dr. Prashant W Patil.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho is the contact person for research on Single Image Depth Estimation?\n\n### Response:\nFor research on Single Image Depth Estimation, you can contact Dr. Prashant W Patil."
+  },
+  {
+    "instruction": "What is the student count and number of trimesters for the online DSAI program?",
+    "input": "",
+    "output": "The program has 1405 students and is composed of 12 trimesters.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the student count and number of trimesters for the online DSAI program?\n\n### Response:\nThe program has 1405 students and is composed of 12 trimesters."
+  },
+  {
+    "instruction": "Which professor, Dr. Neeraj Kumar Sharma or Dr. Teena Sharma, works on bio-acoustics?",
+    "input": "",
+    "output": "Dr. Neeraj Kumar Sharma's research areas include bio-acoustics.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor, Dr. Neeraj Kumar Sharma or Dr. Teena Sharma, works on bio-acoustics?\n\n### Response:\nDr. Neeraj Kumar Sharma's research areas include bio-acoustics."
+  },
+  {
+    "instruction": "Find the professor whose work includes both semantic segmentation and biomedical image processing.",
+    "input": "",
+    "output": "Dr. Debanga Raj Neog's research includes Image Processing with a focus on both semantic segmentation and biomedical image processing.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nFind the professor whose work includes both semantic segmentation and biomedical image processing.\n\n### Response:\nDr. Debanga Raj Neog's research includes Image Processing with a focus on both semantic segmentation and biomedical image processing."
+  },
+  {
+    "instruction": "Who is the expert in Stochastic Approximation at the Mehta Family School of Data Science?",
+    "input": "",
+    "output": "Dr. Arghyadip Roy is the expert in Stochastic Approximation.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho is the expert in Stochastic Approximation at the Mehta Family School of Data Science?\n\n### Response:\nDr. Arghyadip Roy is the expert in Stochastic Approximation."
+  },
+  {
+    "instruction": "What is the contact information for the professor who researches Non-stationary time-series signal modelling?",
+    "input": "",
+    "output": "Dr. Neeraj Kumar Sharma researches this topic. His email is neerajsiitg.ac.in and his phone is +91-361-258-3507.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the contact information for the professor who researches Non-stationary time-series signal modelling?\n\n### Response:\nDr. Neeraj Kumar Sharma researches this topic. His email is neerajsiitg.ac.in and his phone is +91-361-258-3507."
+  },
+  {
+    "instruction": "Which professor at IITG works on challenges related to Biomedical Data Inequality?",
+    "input": "",
+    "output": "Dr. Teena Sharma works on Biomedical Data Inequality.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor at IITG works on challenges related to Biomedical Data Inequality?\n\n### Response:\nDr. Teena Sharma works on Biomedical Data Inequality."
+  },
+  {
+    "instruction": "Name a faculty member who specializes in Scene Understanding and Object Detection.",
+    "input": "",
+    "output": "Dr. Chiranjib Sur specializes in both Scene Understanding and Object Detection.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nName a faculty member who specializes in Scene Understanding and Object Detection.\n\n### Response:\nDr. Chiranjib Sur specializes in both Scene Understanding and Object Detection."
+  },
+  {
+    "instruction": "Who at the DSAI school can be contacted at +91-361-258-3509?",
+    "input": "",
+    "output": "You can contact Dr. Amulya Kumar Mahto at +91-361-258-3509.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho at the DSAI school can be contacted at +91-361-258-3509?\n\n### Response:\nYou can contact Dr. Amulya Kumar Mahto at +91-361-258-3509."
+  },
+  {
+    "instruction": "Whose research involves Deep Learning and Multi-weather Image Restoration?",
+    "input": "",
+    "output": "Dr. Prashant W Patil's research involves both Deep Learning and Multi-weather Image/Video Restoration.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhose research involves Deep Learning and Multi-weather Image Restoration?\n\n### Response:\nDr. Prashant W Patil's research involves both Deep Learning and Multi-weather Image/Video Restoration."
+  },
+  {
+    "instruction": "What is the name of the school that runs the Online BSc Hons in Data Science and Artificial Intelligence program at IITG?",
+    "input": "",
+    "output": "The program is run by the Mehta Family School of Data Science and Artificial Intelligence.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the name of the school that runs the Online BSc Hons in Data Science and Artificial Intelligence program at IITG?\n\n### Response:\nThe program is run by the Mehta Family School of Data Science and Artificial Intelligence."
+  },
+  {
+    "instruction": "Which course has the code DA107 and who teaches it?",
+    "input": "",
+    "output": "DA107 is the Data Science course, and it is taught by Debanga sir.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich course has the code DA107 and who teaches it?\n\n### Response:\nDA107 is the Data Science course, and it is taught by Debanga sir."
+  },
+  {
+    "instruction": "Who is the faculty member whose research includes statistical properties of classical parameter estimation methods?",
+    "input": "",
+    "output": "Dr. Rhythm Grover is the faculty member whose research includes the statistical properties of classical parameter estimation methods.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho is the faculty member whose research includes statistical properties of classical parameter estimation methods?\n\n### Response:\nDr. Rhythm Grover is the faculty member whose research includes the statistical properties of classical parameter estimation methods."
+  },
+  {
+    "instruction": "Tell me about Dr. Debanga Raj Neog's work in Computer Vision.",
+    "input": "",
+    "output": "Dr. Debanga Raj Neog's work in Computer Vision includes eye tracking and face tracking.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTell me about Dr. Debanga Raj Neog's work in Computer Vision.\n\n### Response:\nDr. Debanga Raj Neog's work in Computer Vision includes eye tracking and face tracking."
+  },
+  {
+    "instruction": "Does any professor's work cover Optimization and Control of Stochastic Systems?",
+    "input": "",
+    "output": "Yes, Dr. Arghyadip Roy's research areas include Optimization and Control of Stochastic Systems.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nDoes any professor's work cover Optimization and Control of Stochastic Systems?\n\n### Response:\nYes, Dr. Arghyadip Roy's research areas include Optimization and Control of Stochastic Systems."
+  },
+  {
+    "instruction": "What is the email for the professor who teaches DA108 (Python Programming)?",
+    "input": "",
+    "output": "DA108 is taught by Dr. Neeraj Kumar Sharma, and his email is neerajsiitg.ac.in.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the email for the professor who teaches DA108 (Python Programming)?\n\n### Response:\nDA108 is taught by Dr. Neeraj Kumar Sharma, and his email is neerajsiitg.ac.in."
+  },
+  {
+    "instruction": "Is Dr. Teena Sharma an Assistant Professor? If so, what are her research interests?",
+    "input": "",
+    "output": "Yes, Dr. Teena Sharma is an Assistant Professor. Her research includes AI, Machine Learning, and Deep Learning for Image Enhancement, Object Recognition, and Biomedical Data Inequality.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nIs Dr. Teena Sharma an Assistant Professor? If so, what are her research interests?\n\n### Response:\nYes, Dr. Teena Sharma is an Assistant Professor. Her research includes AI, Machine Learning, and Deep Learning for Image Enhancement, Object Recognition, and Biomedical Data Inequality."
+  },
+  {
+    "instruction": "Which professor at IITG researches Multi-Frame Prediction?",
+    "input": "",
+    "output": "Dr. Chiranjib Sur researches Multi-Frame Prediction.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor at IITG researches Multi-Frame Prediction?\n\n### Response:\nDr. Chiranjib Sur researches Multi-Frame Prediction."
+  },
+  {
+    "instruction": "Who works on Classical and Bayesian Estimation in the DSAI faculty?",
+    "input": "",
+    "output": "Dr. Amulya Kumar Mahto's research areas include Classical and Bayesian Estimation.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho works on Classical and Bayesian Estimation in the DSAI faculty?\n\n### Response:\nDr. Amulya Kumar Mahto's research areas include Classical and Bayesian Estimation."
+  },
+  {
+    "instruction": "Provide the phone number for Dr. Prashant W Patil.",
+    "input": "",
+    "output": "The phone number for Dr. Prashant W Patil is +91-361-258-3510.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nProvide the phone number for Dr. Prashant W Patil.\n\n### Response:\nThe phone number for Dr. Prashant W Patil is +91-361-258-3510."
+  },
+  {
+    "instruction": "Which professor's phone number is +91-361-258-3505?",
+    "input": "",
+    "output": "The phone number +91-361-258-3505 belongs to Dr. Arghyadip Roy.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor's phone number is +91-361-258-3505?\n\n### Response:\nThe phone number +91-361-258-3505 belongs to Dr. Arghyadip Roy."
+  },
+  {
+    "instruction": "Who is the instructor for Linear Algebra and what is their email?",
+    "input": "",
+    "output": "The instructor for Linear Algebra (DA105) is Dr. Amulya Kumar Mahto, and his email is akmahtoiitg.ac.in.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho is the instructor for Linear Algebra and what is their email?\n\n### Response:\nThe instructor for Linear Algebra (DA105) is Dr. Amulya Kumar Mahto, and his email is akmahtoiitg.ac.in."
+  },
+  {
+    "instruction": "I'm looking for a professor whose research covers signal processing models. Who would that be?",
+    "input": "",
+    "output": "Dr. Rhythm Grover's research includes efficient algorithms for parameter estimation of signal processing models.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nI'm looking for a professor whose research covers signal processing models. Who would that be?\n\n### Response:\nDr. Rhythm Grover's research includes efficient algorithms for parameter estimation of signal processing models."
+  },
+  {
+    "instruction": "Can you list two research areas of Dr. Debanga Raj Neog?",
+    "input": "",
+    "output": "Two research areas of Dr. Debanga Raj Neog are Computer Vision (Eye tracking, face tracking) and Computational Imaging (High dynamic range imaging).",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nCan you list two research areas of Dr. Debanga Raj Neog?\n\n### Response:\nTwo research areas of Dr. Debanga Raj Neog are Computer Vision (Eye tracking, face tracking) and Computational Imaging (High dynamic range imaging)."
+  },
+  {
+    "instruction": "Which professor's research includes Reinforcement Learning and Markov Decision Processes?",
+    "input": "",
+    "output": "Dr. Arghyadip Roy's research includes both Reinforcement Learning and Markov Decision Processes.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor's research includes Reinforcement Learning and Markov Decision Processes?\n\n### Response:\nDr. Arghyadip Roy's research includes both Reinforcement Learning and Markov Decision Processes."
+  },
+  {
+    "instruction": "Who in the faculty has the email neerajsiitg.ac.in?",
+    "input": "",
+    "output": "The faculty member with the email neerajsiitg.ac.in is Dr. Neeraj Kumar Sharma.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho in the faculty has the email neerajsiitg.ac.in?\n\n### Response:\nThe faculty member with the email neerajsiitg.ac.in is Dr. Neeraj Kumar Sharma."
+  },
+  {
+    "instruction": "What are the specialties of Dr. Teena Sharma?",
+    "input": "",
+    "output": "Dr. Teena Sharma specializes in Artificial Intelligence, Machine Learning, and Deep Learning Algorithms for Image Enhancement, Object Recognition, and Biomedical Data Inequality.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are the specialties of Dr. Teena Sharma?\n\n### Response:\nDr. Teena Sharma specializes in Artificial Intelligence, Machine Learning, and Deep Learning Algorithms for Image Enhancement, Object Recognition, and Biomedical Data Inequality."
+  },
+  {
+    "instruction": "Who at IITG works on Recommendation Systems for Multimedia and what is their phone number?",
+    "input": "",
+    "output": "Dr. Chiranjib Sur works on Recommendation Systems for Multimedia. His phone number is +91-361-258-3508.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho at IITG works on Recommendation Systems for Multimedia and what is their phone number?\n\n### Response:\nDr. Chiranjib Sur works on Recommendation Systems for Multimedia. His phone number is +91-361-258-3508."
+  },
+  {
+    "instruction": "I need an expert in Statistical Optimization. Who is the relevant professor?",
+    "input": "",
+    "output": "The relevant professor for Statistical Optimization is Dr. Amulya Kumar Mahto.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nI need an expert in Statistical Optimization. Who is the relevant professor?\n\n### Response:\nThe relevant professor for Statistical Optimization is Dr. Amulya Kumar Mahto."
+  },
+  {
+    "instruction": "Which faculty member's research includes Video Object Segmentation?",
+    "input": "",
+    "output": "Dr. Prashant W Patil's research includes Video Object Segmentation.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich faculty member's research includes Video Object Segmentation?\n\n### Response:\nDr. Prashant W Patil's research includes Video Object Segmentation."
+  },
+  {
+    "instruction": "What is the course that Neeraj Sir teaches, and what is its course code?",
+    "input": "",
+    "output": "Neeraj Sir teaches Python Programming, which has the course code DA108.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the course that Neeraj Sir teaches, and what is its course code?\n\n### Response:\nNeeraj Sir teaches Python Programming, which has the course code DA108."
+  },
+  {
+    "instruction": "Does Dr. Debanga Raj Neog work on Image Processing?",
+    "input": "",
+    "output": "Yes, Dr. Debanga Raj Neog's research areas include Image Processing, specifically semantic segmentation and biomedical image processing.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nDoes Dr. Debanga Raj Neog work on Image Processing?\n\n### Response:\nYes, Dr. Debanga Raj Neog's research areas include Image Processing, specifically semantic segmentation and biomedical image processing."
+  },
+  {
+    "instruction": "Who researches segmentation and organ detection using deep learning?",
+    "input": "",
+    "output": "Dr. Chiranjib Sur's research areas include Deep Learning, as well as Segmentation and Organ detection.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho researches segmentation and organ detection using deep learning?\n\n### Response:\nDr. Chiranjib Sur's research areas include Deep Learning, as well as Segmentation and Organ detection."
+  },
+  {
+    "instruction": "Tell me about Dr. Arghyadip Roy's role and a key research area.",
+    "input": "",
+    "output": "Dr. Arghyadip Roy is an Assistant Professor, and a key research area of his is Reinforcement Learning.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nTell me about Dr. Arghyadip Roy's role and a key research area.\n\n### Response:\nDr. Arghyadip Roy is an Assistant Professor, and a key research area of his is Reinforcement Learning."
+  },
+  {
+    "instruction": "Which professor has the email pwpatiliitg.ac.in and what do they research?",
+    "input": "",
+    "output": "That email belongs to Dr. Prashant W Patil. His research areas include Computer Vision, Deep Learning, and Video Object Tracking.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor has the email pwpatiliitg.ac.in and what do they research?\n\n### Response:\nThat email belongs to Dr. Prashant W Patil. His research areas include Computer Vision, Deep Learning, and Video Object Tracking."
+  },
+  {
+    "instruction": "Who in the DSAI faculty works on health-acoustics?",
+    "input": "",
+    "output": "Dr. Neeraj Kumar Sharma's research includes the understanding of audio, with a specific focus on health-acoustics.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho in the DSAI faculty works on health-acoustics?\n\n### Response:\nDr. Neeraj Kumar Sharma's research includes the understanding of audio, with a specific focus on health-acoustics."
+  },
+  {
+    "instruction": "Can you provide the contact number for the professor who researches Biomedical Data Inequality?",
+    "input": "",
+    "output": "Dr. Teena Sharma researches Biomedical Data Inequality, and her contact number is +91-361-258-3506.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nCan you provide the contact number for the professor who researches Biomedical Data Inequality?\n\n### Response:\nDr. Teena Sharma researches Biomedical Data Inequality, and her contact number is +91-361-258-3506."
+  },
+  {
+    "instruction": "Which professor has the phone number +91-361-258-3508 and works on Statistical Learning?",
+    "input": "",
+    "output": "Dr. Chiranjib Sur has the phone number +91-361-258-3508 and his research areas include Statistical Learning.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor has the phone number +91-361-258-3508 and works on Statistical Learning?\n\n### Response:\nDr. Chiranjib Sur has the phone number +91-361-258-3508 and his research areas include Statistical Learning."
+  },
+  {
+    "instruction": "What are some research topics covered by Dr. Amulya Kumar Mahto?",
+    "input": "",
+    "output": "Some of Dr. Amulya Kumar Mahto's research topics include Statistical Modelling, Accelerated Life Testing, and Competing Risks.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are some research topics covered by Dr. Amulya Kumar Mahto?\n\n### Response:\nSome of Dr. Amulya Kumar Mahto's research topics include Statistical Modelling, Accelerated Life Testing, and Competing Risks."
+  },
+  {
+    "instruction": "Who teaches the course with the subject of Data Science in the online program?",
+    "input": "",
+    "output": "The Data Science course (DA107) is taught by Debanga sir.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho teaches the course with the subject of Data Science in the online program?\n\n### Response:\nThe Data Science course (DA107) is taught by Debanga sir."
+  },
+  {
+    "instruction": "List two professors who work on Deep Learning and provide their primary contact email.",
+    "input": "",
+    "output": "Dr. Chiranjib Sur (chiranjibiitg.ac.in) and Dr. Prashant W Patil (pwpatiliitg.ac.in) both have Deep Learning as a research area.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nList two professors who work on Deep Learning and provide their primary contact email.\n\n### Response:\nDr. Chiranjib Sur (chiranjibiitg.ac.in) and Dr. Prashant W Patil (pwpatiliitg.ac.in) both have Deep Learning as a research area."
+  },
+  {
+    "instruction": "Which professor's research includes efficient algorithms for parameter estimation?",
+    "input": "",
+    "output": "Dr. Rhythm Grover's research includes Efficient Algorithms for parameter estimation of signal processing models.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor's research includes efficient algorithms for parameter estimation?\n\n### Response:\nDr. Rhythm Grover's research includes Efficient Algorithms for parameter estimation of signal processing models."
+  },
+  {
+    "instruction": "Find the contact email for the faculty member who works on Computer Graphics and AR/VR.",
+    "input": "",
+    "output": "The faculty member who works on Computer Graphics and AR/VR is Dr. Debanga Raj Neog, and his email is dneogiitg.ac.in.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nFind the contact email for the faculty member who works on Computer Graphics and AR/VR.\n\n### Response:\nThe faculty member who works on Computer Graphics and AR/VR is Dr. Debanga Raj Neog, and his email is dneogiitg.ac.in."
+  },
+  {
+    "instruction": "Who in the DSAI program specializes in behavioral and EEG data capture and analysis?",
+    "input": "",
+    "output": "Dr. Neeraj Kumar Sharma specializes in Brain-informed signal processing, which includes behavioral and EEG data capture and analysis.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho in the DSAI program specializes in behavioral and EEG data capture and analysis?\n\n### Response:\nDr. Neeraj Kumar Sharma specializes in Brain-informed signal processing, which includes behavioral and EEG data capture and analysis."
+  },
+  {
+    "instruction": "Is anyone researching the application of reinforcement learning in communication networks?",
+    "input": "",
+    "output": "Yes, Dr. Arghyadip Roy's research includes the Application of Reinforcement learning in Wireless Communication and Resource Allocation in Communication Networks.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nIs anyone researching the application of reinforcement learning in communication networks?\n\n### Response:\nYes, Dr. Arghyadip Roy's research includes the Application of Reinforcement learning in Wireless Communication and Resource Allocation in Communication Networks."
+  },
+  {
+    "instruction": "What is the phone number of the instructor for the DA107 course?",
+    "input": "",
+    "output": "The instructor for DA107 is Dr. Debanga Raj Neog, and his phone number is +91-361-258-3504.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat is the phone number of the instructor for the DA107 course?\n\n### Response:\nThe instructor for DA107 is Dr. Debanga Raj Neog, and his phone number is +91-361-258-3504."
+  },
+  {
+    "instruction": "Which professor's expertise lies in sampling and time-frequency analysis?",
+    "input": "",
+    "output": "Dr. Neeraj Kumar Sharma's expertise includes Non-stationary time-series signal modelling, which covers sampling and time-frequency analysis.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich professor's expertise lies in sampling and time-frequency analysis?\n\n### Response:\nDr. Neeraj Kumar Sharma's expertise includes Non-stationary time-series signal modelling, which covers sampling and time-frequency analysis."
+  },
+  {
+    "instruction": "What are Dr. Chiranjib Sur's areas of research and what is his email?",
+    "input": "",
+    "output": "Dr. Chiranjib Sur's research areas include Deep Learning, NLP/NLU, and Recommendation Systems, among others. His email is chiranjibiitg.ac.in.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhat are Dr. Chiranjib Sur's areas of research and what is his email?\n\n### Response:\nDr. Chiranjib Sur's research areas include Deep Learning, NLP/NLU, and Recommendation Systems, among others. His email is chiranjibiitg.ac.in."
+  },
+  {
+    "instruction": "Who teaches the Python course (DA108) and the Linear Algebra course (DA105)?",
+    "input": "",
+    "output": "The Python course (DA108) is taught by Neeraj Sir, and the Linear Algebra course (DA105) is taught by Amulya Sir.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWho teaches the Python course (DA108) and the Linear Algebra course (DA105)?\n\n### Response:\nThe Python course (DA108) is taught by Neeraj Sir, and the Linear Algebra course (DA105) is taught by Amulya Sir."
+  },
+  {
+    "instruction": "Which two professors work on computer vision, and what are their specific focuses within that field?",
+    "input": "",
+    "output": "Dr. Debanga Raj Neog works on Computer Vision (Eye tracking, face tracking) and Dr. Prashant W Patil also works on Computer Vision, including areas like video object segmentation and activity recognition.",
+    "text": "Below is an instruction that describes a task. Write a response that appropriately completes the request.\n\n### Instruction:\nWhich two professors work on computer vision, and what are their specific focuses within that field?\n\n### Response:\nDr. Debanga Raj Neog works on Computer Vision (Eye tracking, face tracking) and Dr. Prashant W Patil also works on Computer Vision, including areas like video object segmentation and activity recognition."
+  }
+]
