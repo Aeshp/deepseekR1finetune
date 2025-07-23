@@ -8,30 +8,9 @@
 # After installing bitsandbytes now ready for inference 
 
 import bitsandbytes as bnb
-print("bnb version:", bnb.__version__)  #see what version you have
-from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
+print("bnb version:", bnb.__version__) #see what version you have
 import torch
-
-MODEL = "Aeshp/deepseekfinetuned01"
-bnb_cfg = BitsAndBytesConfig(
-    load_in_4bit=True,
-    bnb_4bit_use_double_quant=True,
-    bnb_4bit_quant_type="nf4",
-    bnb_4bit_compute_dtype=torch.bfloat16,
-)
-
-tokenizer = AutoTokenizer.from_pretrained(MODEL)
-model = AutoModelForCausalLM.from_pretrained(
-    MODEL,
-    quantization_config=bnb_cfg,
-    device_map="auto",
-    offload_folder="offload" # Add offload_folder here
-)
-
-
-
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
-import torch
 
 MODEL = "Aeshp/deepseekfinetuned01"
 bnb_cfg = BitsAndBytesConfig(
