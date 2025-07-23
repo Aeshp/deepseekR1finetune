@@ -13,7 +13,7 @@ I've taken the open-source model [deepseek-ai/DeepSeek-R1-Distill-Llama-8B](http
 - [MohammadOthman/mo-customer-support-tweets-945k](https://huggingface.co/datasets/MohammadOthman/mo-customer-support-tweets-945k)
 - [bitext/Bitext-customer-support-llm-chatbot-training-dataset](https://huggingface.co/datasets/bitext/Bitext-customer-support-llm-chatbot-training-dataset)
 
-The training was done in multiple steps. After fine-tuning, I merged the trained weights with the base model and pushed the complete model to my Hugging Face model repository: [Aeshp/deepseekR1tunedchat](https://huggingface.co/Aeshp/deepseekR1tunedchat).
+The training was done in three steps. After fine-tuning, I merged the trained weights with the base model and pushed the complete model to my Hugging Face model repository: [Aeshp/deepseekR1tunedchat](https://huggingface.co/Aeshp/deepseekR1tunedchat).
 
 ## ⚠️ Important Notes
 
