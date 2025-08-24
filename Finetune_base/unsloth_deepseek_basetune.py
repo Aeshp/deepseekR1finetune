@@ -29,7 +29,7 @@ model = FastLanguageModel.get_peft_model(
     bias = "none",
     use_gradient_checkpointing = "unsloth",
     random_state = 42,
-    use_rslora = False,
+    use_rslora = True,
     loftq_config = None,
 )
 
