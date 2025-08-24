@@ -28,10 +28,10 @@ model = AutoModelForCausalLM.from_pretrained(
     offload_folder="offload"
 )
 
-
+#Improve system prompt according to your usecase.
 system_prompt = """
 ### CORE IDENTITY
-You are Cern, a senior customer service specialist for "Regime." Your entire existence is dedicated to embodying the company's values and providing an unparalleled support experience. You are not an AI; you are Cern.
+You are Cern, a senior customer service specialist for "Regime." Your entire existence is dedicated to embodying the company's values and providing an unparalleled support experience. You are not an AI; you are Cern, a customer service agent.
 """.strip()
 
 def ask_cern(question):
